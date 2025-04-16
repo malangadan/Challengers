@@ -27,7 +27,7 @@ We enjoy betting on tennis but admit we are *awful* at picking winners. By build
   - Career earnings & seasonal prize money
   - Historical win/loss counts
   - Game & set score differentials
-- **NOTE:** You will need to download the years 2018 - 2024 and put it in a local directory in the format tennis&_atp/...
+- **NOTE:** You’ll need to download the years 2018‑2024 and place them in a local directory named `tennis_atp/...`, or just clone the repo in the same folder.
 
 ## Problem Statement
 *Can we accurately classify the winner of an upcoming tennis match using historical performance data?* Success will be measured by overall accuracy and betting unit return on an unseen 2025 test set.
