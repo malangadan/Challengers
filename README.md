@@ -10,9 +10,8 @@ Predicting ATP tennis match outcomes with machine‑learning models so we (respo
 3. [Problem Statement](#problem-statement)
 4. [Methods & Techniques](#methods--techniques)
 5. [Project Plan](#project-plan)
-6. [Getting Started](#getting-started)
-7. [Team](#team)
-8. [Inspiration](#inspiration)
+6. [Team](#team)
+7. [Inspiration](#inspiration)
 
 ---
 
@@ -62,8 +61,8 @@ We use Jupyter Notebook to run this so just open the Challengers.ipynb through t
 ## Team
 | Role           | Member                     |
 |----------------|----------------------------|
-| **Leader**     | Anton Salvador             |
-| Data Engineers | Mathew Alangadan • Ryder Keeney |
+| **Leaders**     | Anton Salvador • Mathew Alangadan          |
+| Data Engineer |  Ryder Keeney |
 | ML Engineers   | Dylan Tallon • Zachary Miguel Allarey |
 
 ## Inspiration
