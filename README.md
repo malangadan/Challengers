@@ -61,8 +61,8 @@ We use Jupyter Notebook to run this so just open the Challengers.ipynb through t
 ## Team
 | Role           | Member                     |
 |----------------|----------------------------|
-| **Leaders**     | Anton Salvador • Mathew Alangadan          |
-| Data Engineer |  Ryder Keeney |
+| **Leader**     |  Mathew Alangadan          |
+| Data Engineers |  Ryder Keeney • Anton Salvador |
 | ML Engineers   | Dylan Tallon • Zachary Miguel Allarey |
 
 ## Inspiration
